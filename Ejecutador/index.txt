@@ -1,0 +1,12 @@
+instalar auto-py-to-exe
+pip install auto-py-to-exe
+
+Ejecuta auto-py-to-exe:
+Una vez instalado, puedes ejecutar auto-py-to-exe escribiendo el siguiente comando en la terminal (CMD):
+auto-py-to-exe
+
+
+Alternativa: Ejecutar auto-py-to-exe desde Python
+Puedes intentar ejecutar auto-py-to-exe desde Python directamente:
+
+python -m auto_py_to_exe
