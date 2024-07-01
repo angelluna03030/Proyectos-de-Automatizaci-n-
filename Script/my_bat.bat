@@ -1,0 +1,1 @@
+"C:\Users\angel\OneDrive\Escritorio\proyectos\automatizacion\Script\index.py"
