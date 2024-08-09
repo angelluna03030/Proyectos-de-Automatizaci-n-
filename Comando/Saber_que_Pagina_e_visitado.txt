@@ -1,0 +1,2 @@
+consola de windows
+ipconfig /displaydns > archivo.txt
